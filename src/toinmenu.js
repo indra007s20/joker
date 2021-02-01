@@ -1,5 +1,5 @@
 const toinmenu = (prefix, pushname) => {
-    return 
+    return`
 ┏━━━━━━━━━━━━━━━━━━━━━━
 ┃➢Comandos do Kira
 ┣━━━━━━━━━━━━━━━━━━━━━━
